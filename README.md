@@ -9,5 +9,5 @@ A list of awesome Non Fungible Token frameworks, libraries and software.
 
 ### ERC-721
 
-* ERC-721a
+* [ERC-721a](https://www.erc721a.org/)
 * ERC-721nes
