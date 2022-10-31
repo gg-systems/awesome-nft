@@ -12,4 +12,4 @@ A list of awesome Non Fungible Token frameworks, libraries and software.
 * [ERC-721a](https://www.erc721a.org/)  
   Implementation of ERC-721 by the Azuki team. Popularized due to great efficiency in minting tokens.
 * [ERC-721nes](https://www.erc721nes.org/)  
-  Implementation of ERC-721 staking that does not rely on escrow. Utilized by the [Lost SamuRise](samurise.xyz) project.
+  Implementation of ERC-721 staking that does not rely on escrow. Utilized by the [Lost SamuRise](http://samurise.xyz) project.
